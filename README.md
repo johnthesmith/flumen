@@ -1,4 +1,4 @@
-[ru](../ru/README.md)
+[ru](./ru/README.md)
 
 Flumen Theory — A Concept for Modeling Spaces and relationships between them using abstract objects 
 called Flumens. The theory aims to describe multidimensional structures with the minimal number 
