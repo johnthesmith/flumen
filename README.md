@@ -6,7 +6,7 @@ of fundamental elements, excluding traditional concepts of coordinates and measu
 
 # What is a Flumen?
  
-[Flumen](./en/flumen) (Latin: flumen stream) — an abstract mathematical direction between two natural numbers 
+[Flumen](./en/flumen.md) (Latin: flumen stream) — an abstract mathematical direction between two natural numbers 
 with unit length. It is analogous to a directed edge in a graph. An important note: a flumen 
 does not have coordinates or space in the traditional sense. It is a simple abstraction that 
 can serve as a building block for creating more complex structures.
