@@ -25,11 +25,12 @@ Flumens cannot move by themselves. Instead, movement occurs at the level of the 
 who moves through the flumens and perceives the structure of the space. flumens can be seen 
 as channels or paths through which signals and events pass.
 
-# The Variety of Spaces
 
-Flumens allow the creation of a vast variety of multidimensional spaces with different topologies. 
-Closed spaces, infinite spaces, and parallel spaces are all possible. flumens enable the creation 
-of seamless spaces with mixed dimensions, wormholes, and other possible artifacts.
+# Diversity of Spaces
+
+Flumens allow the creation of a vast variety of multidimensional spaces with different topologies.
+Closed and bounded spaces, infinite spaces, parallel spaces, bidirectional spaces like the three-dimensional world, and unidirectional spaces like time are all possible.
+Flumens enable the creation of seamless spaces with mixed dimensions, wormholes, and other possible artifacts.
 
 # The Observer
 
