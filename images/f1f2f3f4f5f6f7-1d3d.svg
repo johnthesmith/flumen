@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
-   sodipodi:docname="f1f2f3f4-1d2d.svg"
+   sodipodi:docname="f1f2f3f4f5f6f7-1d3d.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="160"
-     inkscape:cy="295.49999"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="200.11122"
+     inkscape:cy="230.87036"
      inkscape:window-width="1914"
      inkscape:window-height="980"
      inkscape:window-x="0"
@@ -68,16 +68,16 @@
        y="-8.90096e-06" />
     <text
        xml:space="preserve"
-       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="54.488472"
-       y="-60.570316"
+       style="font-size:1.9386px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.155136;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="57.367279"
+       y="-60.358093"
        id="text3"
-       transform="rotate(75)"><tspan
+       transform="rotate(75.790942)"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
-         x="54.488472"
-         y="-60.570316">f2(1,2)</tspan></text>
+         style="fill:#999999;fill-opacity:1;stroke-width:0.155136"
+         x="57.367279"
+         y="-60.358093">f2(1,2)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -91,16 +91,16 @@
          y="62.654007" /></text>
     <text
        xml:space="preserve"
-       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="22.412315"
-       y="57.851719"
+       style="font-size:2.21256px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.17706;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="22.020357"
+       y="58.95472"
        id="text4"
-       transform="rotate(-30)"><tspan
+       transform="rotate(-31.409972)"><tspan
          sodipodi:role="line"
          id="tspan4"
-         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
-         x="22.412315"
-         y="57.851719">f1(0,1)</tspan></text>
+         style="fill:#999999;fill-opacity:1;stroke-width:0.17706"
+         x="22.020357"
+         y="58.95472">f1(0,1)</tspan></text>
     <path
        style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
        d="M 42.906477,44.380174 65.141275,30.32347"
@@ -113,16 +113,16 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="65.222382"
-       y="35.753746"
+       style="font-size:1.77676px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.142185;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="77.412949"
+       y="23.816248"
        id="text5"
-       transform="rotate(18.271204)"><tspan
+       transform="rotate(23.091278)"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
-         x="65.222382"
-         y="35.753746">f3(0,2)</tspan></text>
+         style="fill:#999999;fill-opacity:1;stroke-width:0.142185"
+         x="77.412949"
+         y="23.816248">f3(0,2)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#ffffff;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -179,8 +179,8 @@
          x="109.35318"
          y="56.21957" /></text>
     <path
-       style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 43.216392,46.556898 71.647961,57.919085"
+       style="fill:#00ff00;stroke:#666666;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 43.216392,46.556898 72.986774,57.569641"
        id="path11"
        sodipodi:nodetypes="cc" />
     <path
@@ -191,15 +191,15 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="101.88777"
-       y="-25.124857"
+       x="100.31532"
+       y="-24.185078"
        id="text1"
-       transform="rotate(51.557552)"><tspan
+       transform="rotate(51.529369)"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
-         x="101.88777"
-         y="-25.124857">f4(2,3)</tspan></text>
+         x="100.31532"
+         y="-24.185078">f4(2,3)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#ffffff;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -211,5 +211,67 @@
          style="stroke-width:0.28231"
          x="93.933594"
          y="82.642807">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#ffffff;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="49.824856"
+       y="65.256493"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.28231"
+         x="49.824856"
+         y="65.256493">4</tspan></text>
+    <path
+       style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 67.853376,30.251811 52.578741,60.103194"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="m 42.239745,48.275407 7.11907,12.326785"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 53.482,63.066368 72.459064,60.158222"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="46.747704"
+       y="74.541878"
+       id="text14"
+       transform="rotate(-9.3928449)"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
+         x="46.747704"
+         y="74.541878">f7(2,3)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="64.619217"
+       y="-6.9197946"
+       id="text15"
+       transform="rotate(58.456188)"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
+         x="64.619217"
+         y="-6.9197946">f5(2,3)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-17.695047"
+       y="73.2202"
+       id="text16"
+       transform="rotate(-62.009988)"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
+         x="-17.695047"
+         y="73.2202">f6(2,3)</tspan></text>
   </g>
 </svg>
