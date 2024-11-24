@@ -3,7 +3,7 @@
 [ru](./ru/README.md)
 
 Flumen Theory — A Concept for Modeling Spaces and relationships between them using abstract objects 
-called Flumens. The theory aims to describe multidimensional structures with the minimal number 
+called [Flumens](./en/flumen.md). The theory aims to describe multidimensional structures with the minimal number 
 of fundamental elements, excluding traditional concepts of coordinates and measurements.
 
 ## What is a Flumen?
