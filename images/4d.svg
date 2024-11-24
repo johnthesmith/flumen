@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="162"
-     inkscape:cy="167.5"
+     inkscape:zoom="4"
+     inkscape:cx="250.25"
+     inkscape:cy="183.375"
      inkscape:window-width="1914"
      inkscape:window-height="980"
      inkscape:window-x="0"
@@ -79,7 +79,7 @@
          y="62.654007" /></text>
     <path
        style="fill:#00ff00;stroke:#ffffff;stroke-width:0.406467;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 41.606011,50.105548 73.555293,28.224404"
+       d="M 41.606011,50.105548 73.433409,29.14287"
        id="path4"
        sodipodi:nodetypes="cc" />
     <path
@@ -154,15 +154,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:5.08481px;fill:#ffffff;stroke:none;stroke-width:0.406912;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="42.507271"
-       y="74.218369"
+       style="font-size:5.08481px;fill:#ff6600;stroke:none;stroke-width:0.406912;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="66.498009"
+       y="55.322323"
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan12"
-         style="stroke-width:0.406912"
-         x="42.507271"
-         y="74.218369">4</tspan></text>
+         style="stroke-width:0.406912;fill:#ff6600"
+         x="66.498009"
+         y="55.322323">4</tspan></text>
     <path
        style="fill:#00ff00;stroke:#ffffff;stroke-width:0.406467;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
        d="M 76.169757,28.88879 46.75297,68.130021"
@@ -175,20 +175,20 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#00ff00;stroke:#ffffff;stroke-width:0.406467;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 46.359609,72.099198 84.20213,72.847503"
+       d="M 86.957718,72.152053 48.788085,72.388608"
        id="path14"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:5.08481px;fill:#ff6600;stroke:none;stroke-width:0.406912;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="66.428795"
-       y="55.072651"
+       style="font-size:5.08481px;fill:#ffffff;stroke:none;stroke-width:0.406912;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="42.270905"
+       y="74.13549"
        id="text17"><tspan
          sodipodi:role="line"
          id="tspan17"
-         style="fill:#ff6600;stroke-width:0.406912"
-         x="66.428795"
-         y="55.072651">3</tspan></text>
+         style="fill:#ffffff;stroke-width:0.406912"
+         x="42.270905"
+         y="74.13549">3</tspan></text>
     <path
        style="fill:#00ff00;stroke:#ff6600;stroke-width:0.406467;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
        d="M 77.93261,29.368542 69.857799,48.904319"
