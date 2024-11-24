@@ -1,6 +1,6 @@
 [ru](../ru/observers.md)
 
-1. [Flumen Theory](README.md) recommends reading the description of observers for understanding:
+1. [Flumen Theory](../README.md) recommends reading the description of observers for understanding:
     1. [Internal Observer](#internal-observer)
     0. [External Observer](#external-observer)
 
