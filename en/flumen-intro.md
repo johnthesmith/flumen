@@ -1,5 +1,3 @@
-[ru](../ru/flumen-intro.md)
-
 > :information_source: The creation of a universal space of any dimension, topology, 
 and complexity should begin with pairs of natural numbers and end with them as well.
 Cherkas R.
@@ -7,6 +5,8 @@ Cherkas R.
 
 
 # Introduction
+
+[ru](../ru/flumen-intro.md)
 
 1. Let’s try to create the simplest possible space, without relying on coordinates, 
 measurements, directions, or other formal constructs. All of them should arise 
