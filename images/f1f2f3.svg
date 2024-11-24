@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="253.49777"
-     inkscape:cy="283.72659"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="232.49999"
+     inkscape:cy="264.24999"
      inkscape:window-width="1914"
      inkscape:window-height="980"
      inkscape:window-x="0"
@@ -191,10 +191,5 @@
          style="stroke-width:0.282"
          x="109.35318"
          y="56.21957" /></text>
-    <path
-       style="fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 10.163862,81.532543 22.250814,63.786633"
-       id="path2"
-       sodipodi:nodetypes="cc" />
   </g>
 </svg>
