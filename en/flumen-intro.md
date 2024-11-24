@@ -61,7 +61,11 @@ and its coordinates are undefined.
 
 ![](../images/f1f2f3-2d.svg)
 
-2. From number 0 to number 3, there are two paths for the observer, each with a different number of flumens. In other words, the length of the path for the observer from 0 to 3 differs, which is impossible in a one-dimensional observer space, but permissible in a two-dimensional space. Conclusion: the observer can describe the space as two-dimensional, while from the external observer's point of view, the second dimension hasn't been explicitly defined.
+2. From number 0 to number 2, there are two paths for the observer, each with a different number of flumens. 
+In other words, the length of the path for the observer from 0 to 2 differs, which is impossible in a 
+one-dimensional observer space, but permissible in a two-dimensional space. Conclusion: 
+the observer can describe the space as two-dimensional, while from the external observer's point of view, 
+the second dimension hasn't been explicitly defined.
 
 3. Such a two-dimensional space can also be extended indefinitely by adding new flumens.
 
