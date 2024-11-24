@@ -34,7 +34,7 @@ Flumens enable the creation of seamless spaces with mixed dimensions, wormholes,
 
 # The Observer
 
-In Flumen Theory, the observer is a being that moves through the flumens, perceiving and exploring 
+In Flumen Theory, the [observer](./en/observers.md) is a being that moves through the flumens, perceiving and exploring 
 the structure of the flumen space. The observer does not interact with the flumens directly but moves 
 along their directions, allowing them to interpret the space as limited or multidimensional 
 depending on the context.
