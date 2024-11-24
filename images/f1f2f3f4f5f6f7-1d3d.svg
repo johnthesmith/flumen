@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="200.11122"
-     inkscape:cy="230.87036"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="195.51502"
+     inkscape:cy="182.96387"
      inkscape:window-width="1914"
      inkscape:window-height="980"
      inkscape:window-x="0"
@@ -248,7 +248,7 @@
          id="tspan14"
          style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
          x="46.747704"
-         y="74.541878">f7(2,3)</tspan></text>
+         y="74.541878">f7(4,2)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -260,7 +260,7 @@
          id="tspan15"
          style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
          x="64.619217"
-         y="-6.9197946">f5(2,3)</tspan></text>
+         y="-6.9197946">f5(0,4)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -272,6 +272,6 @@
          id="tspan16"
          style="fill:#999999;fill-opacity:1;stroke-width:0.28231"
          x="-17.695047"
-         y="73.2202">f6(2,3)</tspan></text>
+         y="73.2202">f6(1,4)</tspan></text>
   </g>
 </svg>
