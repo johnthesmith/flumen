@@ -6,7 +6,7 @@ Flumen (lat flumen, rus поток) is a pair of natural numbers (indices) joine
 
 ![](../images/f1.svg)
 
-Flumen forms the basis of [Flumen Theory](README.md).
+Flumen forms the basis of [Flumen Theory](../README.md).
 
 # Properties of Flumen
 
