@@ -98,6 +98,9 @@ space. The perception of the properties of space by the internal
 observer in the flumen model depends on the completeness of the
 available information.
 
+![Internal observer](./internal-observer.png){#fig:image
+width="\\textwidth"}
+
 ## External Observer
 
 The external observer perceives the model as a whole, without the
@@ -106,6 +109,9 @@ structure of the system as a set of flumens, without binding to its
 internal rules. For the external observer, a flumen is a pair of natural
 numbers. The external observer may, but is not required to, interpret
 configurations of flumens as spaces.
+
+![External observer](./external-observer.png){#fig:image
+width="\\textwidth"}
 
 # One-Dimensional Bounded Unidirectional Space
 
