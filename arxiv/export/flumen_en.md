@@ -1,3 +1,16 @@
+::: small
+# Notes {#notes .unnumbered}
+
+1.  Permanent link to the document \[ru\]:
+    <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_ru.pdf>
+
+2.  Permanent link to the document \[en\]:
+    <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_en.pdf>
+
+3.  The article is published under the license:
+    <https://creativecommons.org/licenses/by-sa/4.0/> CC BY-SA 4.0
+:::
+
 # Introduction
 
 The article describes the concept of modeling a set of multidimensional

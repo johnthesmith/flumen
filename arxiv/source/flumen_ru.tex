@@ -18,11 +18,30 @@
 \begin{document}
 
     \title{Флюмены}
-    \author{Cherkas Ruslan}
+    \author{Черкас Руслан}
     \date{2024-11-30}
 
-    \maketitle
-    \tableofcontents
+    \begin{small}
+        \begingroup
+        \renewcommand{\baselinestretch}{0.8}
+
+        \renewcommand{\contentsname}{Содержание}
+        \maketitle
+        \tableofcontents
+
+        \section*{Примечания}
+            \begin{enumerate}
+                \item Постоянный адрес документа [ru]: 
+                \url{https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_ru.pdf}
+
+                \item Постоянный адрес документа [en]: 
+                \url{https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_en.pdf}
+
+                \item Статья опубликована под лицензией: 
+                \url{https://creativecommons.org/licenses/by-sa/4.0/} CC BY-SA 4.0
+            \end{enumerate}
+        \endgroup
+    \end{small}
 
     \section{Введение}
 
@@ -431,6 +450,7 @@
         натуральных чисел они формируют топологию, конфигурацию и другие 
         характеристики этих пространств.
 
+    \renewcommand{\refname}{Список литературы}
     \begin{thebibliography}{9}
 
         \bibitem{wiki} Wiki

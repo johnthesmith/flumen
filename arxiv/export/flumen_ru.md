@@ -1,3 +1,16 @@
+::: small
+# Примечания {#примечания .unnumbered}
+
+1.  Постоянный адрес документа \[ru\]:
+    <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_ru.pdf>
+
+2.  Постоянный адрес документа \[en\]:
+    <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_en.pdf>
+
+3.  Статья опубликована под лицензией:
+    <https://creativecommons.org/licenses/by-sa/4.0/> CC BY-SA 4.0
+:::
+
 # Введение
 
 Статья описывает концепцию моделирования множества многомерных
