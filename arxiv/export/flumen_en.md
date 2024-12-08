@@ -1,8 +1,8 @@
 ::: small
 # Notes {#notes .unnumbered}
 
-1.  Permanent link to the document \[ru\]:
-    <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_ru.pdf>
+1.  doi:10.5281/zenodo.14319494
+    <https://doi.org/10.5281/zenodo.14319494>
 
 2.  Permanent link to the document \[en\]:
     <https://github.com/johnthesmith/flumen/blob/main/arxiv/export/flumen_en.pdf>
