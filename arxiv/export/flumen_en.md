@@ -18,7 +18,7 @@ spaces using abstract objects, aiming to describe multidimensional
 structures with the minimal number of basic elements, excluding
 traditional notions of coordinates and dimensions.
 
-The concept is based on a single abstraction \"Flumen\" for modeling
+The concept is based on a single abstraction \"flumen\" for modeling
 multidimensional spaces.
 
 # Definition of Flumen
@@ -35,7 +35,7 @@ multidimensional spaces.
     the second number.
 
 3.  A specific naming convention has been introduced to separate the
-    perception of the Flumen as a spatial quantum from the mathematical
+    perception of the flumen as a spatial quantum from the mathematical
     concept of an edge in a graph.
 
 ## Properties of Flumen
@@ -52,7 +52,7 @@ From the definition of flumen, the following key properties follow:
 -   Independence from space: A flumen is not tied to fixed spaces or
     geometry.
 
--   Composition: Flumens can form sequences and structures, connecting
+-   Composition: flumens can form sequences and structures, connecting
     with each other when the input or output number matches among a set
     of flumens.
 
