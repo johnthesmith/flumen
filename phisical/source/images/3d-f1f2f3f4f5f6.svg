@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="150"
+   viewBox="0 0 132.29166 39.6875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="3d-f1f2f3f4f5f6.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="246.78026"
+     inkscape:cy="90.332889"
+     inkscape:window-width="1914"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 36.500601,31.772303 64.227848,23.884052"
+       id="path33"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#0066ff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 36.599414,33.140872 21.144602,5.007904"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="65.32296"
+       y="62.654007"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.282"
+         x="65.32296"
+         y="62.654007" /></text>
+    <path
+       style="fill:#000000;stroke:#0066ff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 35.663574,31.093473 46.513954,13.685749"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#0066ff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 49.004278,13.856021 9.43069,21.714323"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="33.646927"
+       y="33.723564"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="fill:#000000;stroke-width:0.28231"
+         x="33.646927"
+         y="33.723564">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="47.990417"
+       y="43.410603"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.282"
+         x="47.990417"
+         y="43.410603" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="46.698795"
+       y="12.270115"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="fill:#000000;stroke-width:0.28231"
+         x="46.698795"
+         y="12.270115">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="58.451286"
+       y="38.990425"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="fill:#000000;stroke-width:0.28231"
+         x="58.451286"
+         y="38.990425">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="109.35318"
+       y="56.21957"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.282"
+         x="109.35318"
+         y="56.21957" /></text>
+    <path
+       style="fill:#000000;stroke:#ff6600;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 69.474636,23.216335 90.09356,27.820669"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#ff6600;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 68.781264,21.200692 79.55173,3.8171085"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#ff6600;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 81.099186,3.7450276 9.85862,21.9558694"
+       id="path27"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="66.092606"
+       y="23.896252"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="fill:#000000;stroke-width:0.28231"
+         x="66.092606"
+         y="23.896252">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="79.324997"
+       y="2.6918299"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="fill:#000000;stroke-width:0.28231"
+         x="79.324997"
+         y="2.6918299">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="91.077492"
+       y="29.412138"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="fill:#000000;stroke-width:0.28231"
+         x="91.077492"
+         y="29.412138">f</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 49.391044,10.36078 77.473987,2.5668549"
+       id="path31"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
+       d="M 61.129862,37.517042 88.896368,29.611217"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
