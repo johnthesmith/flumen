@@ -70,13 +70,17 @@
          style="stroke-width:0.282"
          x="65.32296"
          y="62.654007" /></text>
-    <rect
-       style="fill:#ffffff;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:stroke fill markers"
-       id="rect15505"
-       width="132.29167"
-       height="92.604164"
-       x="0"
-       y="0" />
+    <g
+       id="g17917"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:#ffffff;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         id="rect15505"
+         width="132.29167"
+         height="92.604164"
+         x="0"
+         y="0" />
+    </g>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
        d="M 23.041728,35.331812 46.38611,35.300662"
