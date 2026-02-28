@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="313.9554"
-     inkscape:cy="135.05739"
+     inkscape:zoom="1"
+     inkscape:cx="533.99999"
+     inkscape:cy="212.99999"
      inkscape:window-width="1914"
      inkscape:window-height="1033"
      inkscape:window-x="1920"
@@ -78,9 +78,10 @@
          y="62.654007" /></text>
     <g
        id="g17917"
-       sodipodi:insensitive="true">
+       transform="scale(1.5999999,1.1428572)"
+       style="stroke-width:0.73951">
       <rect
-         style="fill:#ffffff;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         style="fill:#ffffff;stroke-width:0.195969;stroke-linejoin:bevel;paint-order:stroke fill markers"
          id="rect15505"
          width="132.29167"
          height="92.604164"
