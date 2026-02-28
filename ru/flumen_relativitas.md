@@ -89,3 +89,4 @@ F₁ = { a|n>b, n1|n }
 флюмену `n|b`. При этом 
 
 
+![](./images/relative.svg)
