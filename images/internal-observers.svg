@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="252.43711"
-     inkscape:cy="119.50104"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="164.99999"
+     inkscape:cy="86.999996"
      inkscape:window-width="1914"
      inkscape:window-height="1033"
      inkscape:window-x="1920"
@@ -100,7 +100,8 @@
        x="0"
        y="0"
        rx="1.3288108"
-       ry="1.3288108" />
+       ry="1.3288108"
+       sodipodi:insensitive="true" />
     <path
        id="path12"
        style="fill:#ff6600;stroke:none;stroke-width:0.580005;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
