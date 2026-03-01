@@ -63,3 +63,4 @@
 0. [Метки](./label.md)
 0. [Информация](./information.md)
 0. [Наблюдатели](./observers.md)
+0. [Граф флюменов](./flumen_graph.md)
