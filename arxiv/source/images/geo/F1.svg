@@ -81,9 +81,11 @@
          y="62.654007" /></text>
     <g
        id="g17917"
+       transform="scale(1.5999999,1)"
+       style="stroke-width:0.790569"
        sodipodi:insensitive="true">
       <rect
-         style="fill:#ffffff;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         style="fill:#ffffff;stroke-width:0.2095;stroke-linejoin:bevel;paint-order:stroke fill markers"
          id="rect15505"
          width="132.29167"
          height="92.604164"
@@ -92,7 +94,7 @@
     </g>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 52.916666,42.333333 23.344382,-0.03115"
+       d="m 68.791666,34.395833 23.344382,-0.03115"
        id="path5"
        sodipodi:nodetypes="cc" />
     <text
@@ -109,14 +111,14 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="48.17181"
-       y="43.620972"
+       x="64.046806"
+       y="35.683472"
        id="text10"><tspan
          sodipodi:role="line"
          id="tspan10"
          style="fill:#000000;stroke-width:0.28231"
-         x="48.17181"
-         y="43.620972">b1</tspan></text>
+         x="64.046806"
+         y="35.683472">b1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#00ff00;stroke:#ffffff;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -135,124 +137,124 @@
        sodipodi:nodetypes="cccccscsssssssscccccccccc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 52.916666,63.499999 h 23.8125"
+       d="m 68.791666,55.562499 h 23.8125"
        id="path26681"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="48.785637"
-       y="64.787636"
+       x="64.660637"
+       y="56.850136"
        id="text26685"><tspan
          sodipodi:role="line"
          id="tspan26683"
          style="fill:#000000;stroke-width:0.28231"
-         x="48.785637"
-         y="64.787636">a1</tspan></text>
+         x="64.660637"
+         y="56.850136">a1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="79.07515"
-       y="43.620972"
+       x="94.95015"
+       y="35.683472"
        id="text26691"><tspan
          sodipodi:role="line"
          id="tspan26689"
          style="fill:#000000;stroke-width:0.28231"
-         x="79.07515"
-         y="43.620972">b2</tspan></text>
+         x="94.95015"
+         y="35.683472">b2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="79.21273"
-       y="64.787636"
+       x="95.08773"
+       y="56.850136"
        id="text26695"><tspan
          sodipodi:role="line"
          id="tspan26693"
          style="fill:#000000;stroke-width:0.28231"
-         x="79.21273"
-         y="64.787636">a2</tspan></text>
+         x="95.08773"
+         y="56.850136">a2</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 84.666666,42.333333 23.344374,-0.03115"
+       d="m 100.54167,34.395833 23.34437,-0.03115"
        id="path26699"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 84.704231,63.41828 108.04861,63.38714"
+       d="m 100.57923,55.48078 23.34438,-0.03114"
        id="path26707"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 84.666666,62.177083 108.47916,44.979166"
+       d="M 100.54167,54.239583 124.35416,37.041666"
        id="path26713"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="110.82514"
-       y="43.620972"
+       x="126.70014"
+       y="35.683472"
        id="text26717"><tspan
          sodipodi:role="line"
          id="tspan26715"
          style="fill:#000000;stroke-width:0.28231"
-         x="110.82514"
-         y="43.620972">b2</tspan></text>
+         x="126.70014"
+         y="35.683472">b2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="110.96272"
-       y="64.787636"
+       x="126.83772"
+       y="56.850136"
        id="text26721"><tspan
          sodipodi:role="line"
          id="tspan26719"
          style="fill:#000000;stroke-width:0.28231"
-         x="110.96272"
-         y="64.787636">a2</tspan></text>
+         x="126.83772"
+         y="56.850136">a2</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="M 84.666666,43.656249 108.47916,60.854166"
+       d="m 100.54167,35.718749 23.81249,17.197917"
        id="path26723"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 116.41666,42.333333 23.34439,-0.03115"
+       d="m 132.29166,34.395833 23.34439,-0.03115"
        id="path26725"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 116.41666,63.499999 23.34439,-0.03114"
+       d="m 132.29166,55.562499 23.34439,-0.03114"
        id="path26727"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 116.41666,62.177083 23.8125,-17.197917"
+       d="m 132.29166,54.239583 23.8125,-17.197917"
        id="path26729"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="142.57515"
-       y="43.620972"
+       x="158.45015"
+       y="35.683472"
        id="text26733"><tspan
          sodipodi:role="line"
          id="tspan26731"
          style="fill:#000000;stroke-width:0.28231"
-         x="142.57515"
-         y="43.620972">b3</tspan></text>
+         x="158.45015"
+         y="35.683472">b3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;fill:#000000;stroke:none;stroke-width:0.28231;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="142.71272"
-       y="63.464722"
+       x="158.58772"
+       y="55.527222"
        id="text26737"><tspan
          sodipodi:role="line"
          id="tspan26735"
          style="fill:#000000;stroke-width:0.28231"
-         x="142.71272"
-         y="63.464722">a3</tspan></text>
+         x="158.58772"
+         y="55.527222">a3</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 116.41666,43.656249 23.8125,17.197917"
+       d="m 132.29166,35.718749 23.8125,17.197917"
        id="path26739"
        sodipodi:nodetypes="cc" />
     <path
@@ -300,12 +302,12 @@
          y="20.411718">x</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 52.916666,62.177083 23.8125,-17.197917"
+       d="m 68.791666,54.239583 23.8125,-17.197917"
        id="path25792"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.282001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle);paint-order:stroke fill markers"
-       d="m 52.916666,43.656249 23.8125,17.197917"
+       d="m 68.791666,35.718749 23.8125,17.197917"
        id="path25794"
        sodipodi:nodetypes="cc" />
   </g>
